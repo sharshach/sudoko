@@ -1,0 +1,13 @@
+//gcc.txt
+//created by Chilukuri Sri Harsha
+//created on 19June2019
+
+*UBUNTU*
+	//if gcc is not installed run this in terminal
+-> 		sudo apt install gcc
+	//for windows there are different methods and you can find in internet
+
+navigate to the folder in which files contains
+*GCC*
+1->		gcc sudoko.c
+2->		./a.out < input.txt > output.txt
