@@ -21,8 +21,7 @@ int main()
 		{
 			if (a[i][j]==0)
 			{
-	int n[9]={0,0,0,0,0,0
-	0,0,0},t,count=0,main=0;
+	int n[9]={0,0,0,0,0,0,0,0,0},t,count=0,main=0;
 	for (int k=0;k<9;k++)
 	{
 		if (a[k][j]!=0)
