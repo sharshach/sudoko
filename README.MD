@@ -1,7 +1,3 @@
-//README.MD
-//created by Chilukuri Sri Harsha
-//created on 19June2019
-
 This is a simple C code to solve a 9x9 sudoko.
 want to know about sudoko you can simply search in web..
 
